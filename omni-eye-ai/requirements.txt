@@ -1,0 +1,9 @@
+fastapi [cite: 86]
+uvicorn [cite: 87]
+opencv-python [cite: 82]
+face-recognition [cite: 83]
+deepface [cite: 84]
+numpy [cite: 85]
+pymongo [cite: 88]
+requests [cite: 89]
+python-multipart
