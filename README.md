@@ -7,8 +7,13 @@
 * [cite_start]**Pradeep Pal** [cite: 8]
 * [cite_start]**Nilesh Vishwakarma** [cite: 9]
 * [cite_start]**Nikhil Gupta** [cite: 10]
+## 🚧 Project Status
 
----
+This project is currently under active development (Work in Progress).
+
+I am continuously improving the system by adding new features, fixing bugs, and refining the architecture. The goal of this project is to build an AI-based monitoring system that can process visual data and provide useful insights for real-world monitoring scenarios.
+
+Future improvements may include better model optimization, improved system architecture, and additional automation features.
 
 ## 📌 Project Overview
 [cite_start]**OMNI EYE** ek intelligent software platform hai jo **Artificial Intelligence** aur **Face Recognition** technology ka upyog karke missing persons ko detect karne mein madad karta hai[cite: 13]. [cite_start]Is system mein users missing person ki photo aur details upload kar sakte hain, jise AI analyze karta hai[cite: 14, 15].
